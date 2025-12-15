@@ -45,7 +45,6 @@ Dermatological-Diagnosis-Tool/
 
 1\. \*\*Clone the repository\*\*  
    \`\`\`bash  
-   git clone https://github.com/raffayaziz77-netizen/Dermatological-diagnosis-tool  
    cd Dermatological-Diagnosis-Tool  
 Install dependencies
 
@@ -70,10 +69,6 @@ Improve model accuracy using EfficientNet / Vision Transformers
 Add real-time webcam-based skin scan  
 Build a web interface for public use (Streamlit / Flask)  
 Include disease probability scores and confidence metrics
-
-**Author**  
-Muhammad Raffay Aziz  
-📧 raffayaziz77@gmail.com
 
 **🪪 License**  
 This project is intended for educational and research purposes only.  
